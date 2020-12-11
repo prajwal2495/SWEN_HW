@@ -1,0 +1,3 @@
+KEY:aet	Value:[ aet  ate  eat  eta  tae  tea  ]
+KEY:go	Value:[ go  og  ]
+KEY:dgo	Value:[ dgo  dog  gdo  god  odg  ogd  ]

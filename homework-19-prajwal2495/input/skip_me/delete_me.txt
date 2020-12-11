@@ -1,0 +1,3 @@
+Git does not allow empty directories to be pushed. This file is here merely
+to insure that the directory in which it has been placed can be committed to
+the Git repository. You may delete it.
